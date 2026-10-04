@@ -1,8 +1,0 @@
-.vscode
-/*.zip
-/*.xpi
-dist
-web-ext-artifacts
-shiori-chromium
-dist-chromium
-.DS_Store
